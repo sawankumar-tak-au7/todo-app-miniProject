@@ -11,3 +11,6 @@ Functionality
 2.filter task list 
 3.delete task before that confirm really want to delete remove from local storage as well
 4.clear task from dom AS well as local storage
+
+Live Demo
+https://sawankumar-tak-au7.github.io/todo-app-miniProject/
